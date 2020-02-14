@@ -25,4 +25,6 @@ class Person
   end
 end
  
-oo ruby meta programmingoo ruby meta programming
+beyonce = Person.new("Beyonce")
+beyonce.get_married("Jay-Z")
+puts beyonce.name
